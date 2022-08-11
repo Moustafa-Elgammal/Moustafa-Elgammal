@@ -1,6 +1,6 @@
 # Hello, 👋
 <a target="_blank" href="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415">
-    <img width="100%" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5eeea355389655.59822ff824b72.gif"  alt="Solitary Saunter" class="e2e-ImageModuleContent-img ImageModuleContent-mainImage-IG1">
+    <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5eeea355389655.59822ff824b72.gif"  alt="Solitary Saunter" class="e2e-ImageModuleContent-img ImageModuleContent-mainImage-IG1">
 </a>
 
 - 🔭 I’m currently working on a side project to convert epub to pdf using calibre, it will be deployed as online web app
