@@ -1,7 +1,7 @@
 # Hello, 👋
 <p align="center">
 <a target="_blank"  href="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415">
-    <img width="66%" style="margin: auto 0" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5eeea355389655.59822ff824b72.gif"  alt="Solitary Saunter" class="e2e-ImageModuleContent-img ImageModuleContent-mainImage-IG1">
+    <img width="30%" style="margin: auto 0" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5eeea355389655.59822ff824b72.gif"  alt="Solitary Saunter" class="e2e-ImageModuleContent-img ImageModuleContent-mainImage-IG1">
 </a>
 </p>
 
