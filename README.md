@@ -5,8 +5,8 @@
 </a>
         
 <center>
-    <a href="https://www.behance.net/gallery/55389655/gif-Collection-Two"> ``` .gif Collection Two ``` </a>
-    <a href="https://www.behance.net/Brunsdon"> ``` Tomas Brunsdon ```</a>
+    <a href="https://www.behance.net/gallery/55389655/gif-Collection-Two">.gif Collection Two</a>
+    <a href="https://www.behance.net/Brunsdon">Tomas Brunsdon</a>
 </center>
 
 </p>
